@@ -328,7 +328,7 @@ function activator (event, ui) {
                         width: "20%",
                         data: null,
                         defaultContent:
-                            '<div style="text-align: center; width: 100%"><button id="watch" style="display: inline-block; float: left" onClick="reply_click(this)">Trafego</button><button id="dump" onClick="reply_click(this)">Dump</button><button id="kill" style="float: right; display: inline-block; color: red" onClick="reply_click(this)">Desconecta</button></div>'
+                            '<div style="text-align: center; width: 100%"><button id="watch" style="display: inline-block; float: left" onClick="reply_click(this)">Tráfego</button><button id="dump" onClick="reply_click(this)">Dump</button><button id="kill" style="float: right; display: inline-block; color: red" onClick="reply_click(this)">Desconecta</button></div>'
                     }
                 ],
                 columnDefs: [
@@ -377,7 +377,7 @@ function activator (event, ui) {
                         width: "20%",
                         data: null,
                         defaultContent:
-                            '<div style="text-align: center; width: 100%"><button id="watch" style="display: inline-block; float: left" onClick="reply_click(this)">Trafego</button><button id="dump" onClick="reply_click(this)">Dump</button><button id="kill" style="float: right; display: inline-block; color: red" onClick="reply_click(this)">Desconecta</button></div>'
+                            '<div style="text-align: center; width: 100%"><button id="watch" style="display: inline-block; float: left" onClick="reply_click(this)">Tráfego</button><button id="dump" onClick="reply_click(this)">Dump</button><button id="kill" style="float: right; display: inline-block; color: red" onClick="reply_click(this)">Desconecta</button></div>'
                     }
                 ],
                 columnDefs: [
@@ -426,7 +426,7 @@ function activator (event, ui) {
                         width: "20%",
                         data: null,
                         defaultContent:
-                            '<div style="text-align: center; width: 100%"><button id="watch" style="display: inline-block; float: left" onClick="reply_click(this)">Trafego</button><button id="dump" onClick="reply_click(this)">Dump</button><button id="kill" style="float: right; display: inline-block; color: red" onClick="reply_click(this)">Desconecta</button></div>'
+                            '<div style="text-align: center; width: 100%"><button id="watch" style="display: inline-block; float: left" onClick="reply_click(this)">Tráfego</button><button id="dump" onClick="reply_click(this)">Dump</button><button id="kill" style="float: right; display: inline-block; color: red" onClick="reply_click(this)">Desconecta</button></div>'
                     }
                 ],
                 columnDefs: [
